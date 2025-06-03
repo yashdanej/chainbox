@@ -66,7 +66,7 @@ const Footer = () => {
               <span className="text-[#E13300]">chain</span>box.com
             </div>
             <p className="text-white/60 text-sm mb-6">
-              Secure file transfer made with blockchain system. Share files with confidence. Storing data in <b>IPFS</b>
+              Secure and decentralized file transfer made with blockchain system. Share files with confidence. Storing data in <b>IPFS</b>
             </p>
             <div className="flex space-x-4 mb-6 md:mb-0">
               <a href="#" target="_blank" rel="noopener noreferrer" className="text-white/60 hover:text-white transition-colors">
